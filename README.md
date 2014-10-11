@@ -2,6 +2,7 @@ Requirements
 ------------
 - Python 3
 - `make`
+- virtualenv (optional)
 
 Installation
 ------------
